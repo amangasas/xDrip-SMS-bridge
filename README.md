@@ -1,3 +1,6 @@
+# ⚠️ Known Issue ⚠️
+Auto sending doesnt work im trying to figure out why that is happening but it has something with android blocking sms sent by apps even with permissions
+
 # xDrip SMS Bridge
 
 A small Android app that reads the current glucose value from **xDrip+'s local HTTP API** and sends it to another phone via SMS.
